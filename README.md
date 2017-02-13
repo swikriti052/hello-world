@@ -19,3 +19,8 @@ public class HelloWorld{
     }
      
  }
+ 
+ 
+java -Xmx128M -Xms16M HelloWorld                                                                                 
+53.5                                                                                                             
+sh-4.3$ ^C                                                                                                       
